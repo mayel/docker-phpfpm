@@ -1,5 +1,5 @@
-FROM php:7.4.15-fpm-alpine3.13
-
+FROM php:7.4.15-fpm-alpine3.12
+/
 MAINTAINER Jitendra Adhikari <jiten.adhikary@gmail.com>
 
 ENV \
