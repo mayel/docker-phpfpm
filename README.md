@@ -16,7 +16,7 @@ To pull latest image:
 ```sh
 docker pull adhocore/phpfpm:8.0
 
-# or for alpine 3.12
+# or for alpine 3.13
 docker pull adhocore/phpfpm:8.0-alp3.13
 ```
 
