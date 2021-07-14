@@ -1,4 +1,6 @@
 name: Build docker
+on:
+  push:
 jobs:
   build_7_4:
     runs-on: ubuntu-latest
