@@ -3,6 +3,7 @@ on:
   push:
 jobs:
   build_7_4:
+    environment: release
     runs-on: ubuntu-latest
     steps:
       - 
